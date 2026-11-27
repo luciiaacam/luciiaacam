@@ -1,7 +1,8 @@
 
-#Lucía Cámara Castillo
+# Lucía Cámara Castillo
 
 ### Computer Science Student | Medical Software & Digital Health
+🇬🇧 English | [🇪🇸 Español](README.es.md)
 
 I'm a Computer Science student at the University of Jaén (Spain),
 passionate about the intersection of technology and medicine.
@@ -106,6 +107,10 @@ Academic web development project inspired by Renfe.
 - Digital electronics
 - Biomedical data integration
 - Wearable devices
+
+## 📜 Certifications
+
+- Cisco Networking Academy — Networking Basics (2026).
 
 ## Languages
 
