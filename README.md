@@ -89,11 +89,6 @@ Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG).
 The repository is currently private while the project is under
 development.
 
-### Movie Guessing Game
-
-Academic video game project based on guessing movies,
-developed using the SDL3 library.
-
 ### Railway Website
 
 Academic web development project inspired by Renfe.
