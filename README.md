@@ -108,7 +108,7 @@ Academic web development project inspired by Renfe.
 - Biomedical data integration
 - Wearable devices
 
-## 📜 Certifications
+## Certifications
 
 - Cisco Networking Academy — Networking Basics (2026).
 
