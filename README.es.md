@@ -15,7 +15,7 @@ wearable.
 Mi objetivo profesional es contribuir al desarrollo de soluciones
 tecnológicas que mejoren la salud y la calidad de vida de las personas.
 
-## 👩‍💻 Sobre mí
+## Sobre mí
 
 - Estudiante del Grado en Ingeniería Informática en la Universidad de Jaén.
 - Actualmente desarrollando AMIGA, mi Trabajo de Fin de Grado
@@ -25,7 +25,7 @@ tecnológicas que mejoren la salud y la calidad de vida de las personas.
 - Interesada en oportunidades de prácticas en tecnología médica
   y desarrollo de software.
 
-## 🛠️ Competencias técnicas
+## Competencias técnicas
 
 ### Lenguajes de programación
 
@@ -67,9 +67,9 @@ También soy capaz de desenvolverme de forma autónoma en C y Java.
 - Puertas lógicas y diseño de circuitos digitales.
 - Fundamentos de redes informáticas.
 
-## 📂 Proyectos académicos
+## Proyectos académicos
 
-### 🩺 AMIGA — Asistente para pacientes con diabetes
+### AMIGA — Asistente para pacientes con diabetes
 
 **Trabajo de Fin de Grado | En desarrollo**
 
@@ -106,17 +106,17 @@ aumentada por recuperación (RAG).
 Actualmente, el repositorio se mantiene privado mientras el proyecto
 se encuentra en desarrollo.
 
-### 🎮 Videojuego de adivinación de películas
+### Videojuego de adivinación de películas
 
 Proyecto académico de desarrollo de un videojuego basado en la
 adivinación de películas mediante la biblioteca SDL3.
 
-### 🚆 Aplicación web ferroviaria
+### Aplicación web ferroviaria
 
 Proyecto académico de desarrollo web inspirado en la plataforma
 de Renfe.
 
-## 🔬 Intereses profesionales
+## Intereses profesionales
 
 - Desarrollo de software médico.
 - Salud digital (Digital Health).
@@ -127,11 +127,11 @@ de Renfe.
 - Dispositivos wearables.
 - Comunicación entre hardware y software.
 
-## 📜 Certificaciones
+## Certificaciones
 
 - Cisco Networking Academy — Networking Basics (2026).
 
-## 🌍 Idiomas
+## Idiomas
 
 - Español: nativo.
 - Inglés: C1.
