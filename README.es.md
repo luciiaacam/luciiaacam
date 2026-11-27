@@ -106,11 +106,6 @@ aumentada por recuperación (RAG).
 Actualmente, el repositorio se mantiene privado mientras el proyecto
 se encuentra en desarrollo.
 
-### Videojuego de adivinación de películas
-
-Proyecto académico de desarrollo de un videojuego basado en la
-adivinación de películas mediante la biblioteca SDL3.
-
 ### Aplicación web ferroviaria
 
 Proyecto académico de desarrollo web inspirado en la plataforma
